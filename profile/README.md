@@ -7,4 +7,4 @@ Geocaml is an organisation for OCaml libraries for doing geospatial things. Some
 
 Some projects in the pipeline include [A TIFF library](https://github.com/geocaml/ocaml-tiff), a [carbon intensity library](https://github.com/geocaml/carbon-intensity) and [a TopoJSON library](https://github.com/geocaml/ocaml-topojson).
 
-We follow the OCaml community's code of conduct, the [our copy in this repository](./code-of-conduct.md). This applies to all repositories under the Geocaml organisation.
+We follow the OCaml community's code of conduct, see [our copy in this repository](./CODE_OF_CONDUCT.md). This applies to all repositories under the Geocaml organisation (even if they don't have a `CODE_OF_CONDUCT.md` in source code yet).
